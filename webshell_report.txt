@@ -1,0 +1,12 @@
+Webshells detected:
+/Users/test/Desktop/rootshell.php - MD5 checksum is blacklisted of known webshell
+/Users/test/Desktop/tester.php - MD5 checksum is blacklisted of known webshell
+/Users/test/Desktop/malicious/davtest/backdoors/php_backdoor.php - Contains known webshell signature "system($_"
+/Users/test/Desktop/malicious/phpggc/gadgetchains/WordPress/generic/gadgets.php - Contains known webshell signature "base64_decode("
+/Users/test/Desktop/malicious/phpggc/gadgetchains/WordPress/Guzzle/RCE/2/gadgets.php - Contains known webshell signature "file_put_contents("
+/Users/test/Desktop/malicious/phpggc/lib/PHPGGC.php - Contains known webshell signature "file_put_contents("
+/Users/test/Desktop/malicious/phpggc/lib/test_payload.php - Contains known webshell signature "file_put_contents("
+/Users/test/Desktop/malicious/phpggc/lib/PHPGGC/Util.php - Contains known webshell signature "file_put_contents("
+/Users/test/Desktop/malicious/phpggc/lib/PHPGGC/Enhancement/ASCIIStrings.php - Contains variable obfuscation
+/Users/test/Desktop/malicious/phpggc/lib/PHPGGC/GadgetChain/RCE/PHPCode.php - Contains known webshell signature "file_put_contents("
+/Users/test/Desktop/dr1/d.php - Contains known webshell signature "exec($_"
